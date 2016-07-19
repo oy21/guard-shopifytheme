@@ -1,3 +1,5 @@
+example
+
 # Guard::Shopifytheme
 [![Build Status](https://travis-ci.org/dannysmith/guard-shopifytheme.png?branch=master)](https://travis-ci.org/dannysmith/guard-shopifytheme) [![Gem Version](https://badge.fury.io/rb/guard-shopifytheme.png)](http://badge.fury.io/rb/guard-shopifytheme)
 
